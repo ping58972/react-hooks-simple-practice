@@ -1,4 +1,14 @@
+# Simple Post and Todo with React-Hook
+
+<a href="https://ping58972.github.io/react-hooks-simple-practice/"><img src="https://a.imge.to/2019/07/15/Ftjnh.png" target="_blank" alt="Simple Post and Todo"></a>
+The purpose of website is for practicing React and Hook by implement fetching post and Todos for an API, etc.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Built with
+
+- [React](#) - Used for implement Post and todo.
+- [React-Hook](#) - Used for implement Post and todo with list.
+- More detail... see package.json
 
 ## Available Scripts
 
@@ -25,7 +35,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://ping58972.github.io/react-hooks-simple-practice/) for more information.
 
 ### `npm run eject`
 
@@ -43,26 +53,20 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+or you can go to <a href="https://ping58972.github.io/react-hooks-simple-practice/">github page website</a> that had been deployed to show the result of this project.
 
-### Analyzing the Bundle Size
+## Authors
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- **(Ping) Nalongsone Daddank** - _Initial work_ - [ping58972](https://github.com/ping58972)
 
-### Making a Progressive Web App
+## License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+This project is licensed under the MIT License
 
-### Advanced Configuration
+## Acknowledgments
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
